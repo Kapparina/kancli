@@ -1,4 +1,4 @@
-module kancli
+module github.com/kapparina/kancli
 
 go 1.19
 
